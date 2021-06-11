@@ -236,6 +236,11 @@ footer{
     color: #fff;
     text-align: center;
 }
+.footer .p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;   
+}
 footer span a{
     color: crimson;
     text-decoration: none;
