@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["I'm Rohan", "Student", "Studying B.E", "Welcome you all"],
+        strings: ["This is Rohan", "Student", "Studying B.E.", "Scroll for more!"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true
